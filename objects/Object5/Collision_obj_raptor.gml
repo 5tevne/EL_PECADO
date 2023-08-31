@@ -1,2 +1,2 @@
 /// @description 
-room_goto(Room5);
+room_goto(Room5)
