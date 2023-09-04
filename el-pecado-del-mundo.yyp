@@ -39,6 +39,7 @@
   },
   "resources": [
     {"id":{"name":"Room10","path":"rooms/Room10/Room10.yy",},},
+    {"id":{"name":"Object13","path":"objects/Object13/Object13.yy",},},
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
@@ -77,6 +78,7 @@
     {"id":{"name":"pixel_art_animated_toyoi_yuuta_yl28fl6e0r6ozvvk","path":"sprites/pixel_art_animated_toyoi_yuuta_yl28fl6e0r6ozvvk/pixel_art_animated_toyoi_yuuta_yl28fl6e0r6ozvvk.yy",},},
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
     {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},},
+    {"id":{"name":"sonic_mania","path":"sprites/sonic_mania/sonic_mania.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
     {"id":{"name":"Room12","path":"rooms/Room12/Room12.yy",},},
