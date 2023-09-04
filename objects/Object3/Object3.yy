@@ -33,8 +33,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "Sprite5",
-    "path": "sprites/Sprite5/Sprite5.yy",
+    "name": "Sprite16",
+    "path": "sprites/Sprite16/Sprite16.yy",
   },
   "spriteMaskId": null,
   "visible": true,
